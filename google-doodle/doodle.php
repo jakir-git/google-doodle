@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Google Doodle
  * Plugin URI: 
- * Description: Google Doodle is a free WordPress Plugin that show google doodle on your website as popup.
+ * Description: Google Doodle is a free and open source WordPress Plugin that show google doodle on your website as popup.
  * Author: Jakir Hosen
  * Version: 1.0
  * Author URI: 
